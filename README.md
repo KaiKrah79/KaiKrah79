@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaiKrah79
-- 👀 I’m interested in climbing, machine learning, ai and Fermentation
+- 👀 I’m interested in climbing, machine learning, ai and fermentation
 - 🌱 I’m currently learning AI Programming with python
 - 💞️ I’m looking to collaborate on opensource projects for beginners in the field of ml
 - 📫 How to reach me: kai.krah@web.de
